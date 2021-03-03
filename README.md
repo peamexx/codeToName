@@ -1,6 +1,6 @@
 > 종목코드 --> 종목명으로 변경해주는 사이트 (2020.10)
 
-![This is a alt text.](http://peamexx.com/img/ctnp.jpg)
+![codeToName pc version img](https://user-images.githubusercontent.com/38338103/109741212-f44d6a80-7c0f-11eb-8b18-0d763e88dec9.jpg)
 
 [미리보기](https://peamexx.github.io/codeToName/)
 
